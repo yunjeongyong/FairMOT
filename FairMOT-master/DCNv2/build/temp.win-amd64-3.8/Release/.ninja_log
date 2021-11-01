@@ -1,0 +1,15 @@
+# ninja log v5
+0	2962	6466932159316894	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/cpu/dcn_v2_cpu.obj	ceb347fe3f408d2c
+14	3028	6466932159965161	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/cpu/dcn_v2_im2col_cpu.obj	d5f9cffc0af538f3
+18	3055	6466932160234441	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/cpu/dcn_v2_psroi_pooling_cpu.obj	393e4b3acd99f01e
+16	9426	6466932223901699	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/vision.obj	72d8ddee66583b6f
+158	15599	6466932285457216	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.obj	e055266fbfcb4a8e
+156	15623	6466932285746509	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/cuda/dcn_v2_cuda.obj	3eecdf82e49fe9d
+19	15662	6466932286185279	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/cuda/dcn_v2_im2col_cuda.obj	ef1a4ebf9f34ca0d
+22	2976	6466932357399878	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/cpu/dcn_v2_im2col_cpu.obj	69a59df7cb2df3ca
+0	2999	6466932357649204	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/cpu/dcn_v2_psroi_pooling_cpu.obj	be98f7f0d527738a
+20	3063	6466932358287514	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/cpu/dcn_v2_cpu.obj	5a7ae368a771a9cb
+15	9865	6466932426270252	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/vision.obj	8f2737a593e49044
+29	14793	6466932475351308	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/cuda/dcn_v2_im2col_cuda.obj	22b30feafe92a948
+26	14846	6466932476009550	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/cuda/dcn_v2_cuda.obj	33588dcd6dcf9528
+24	14964	6466932477156549	C:/Users/hansung/Desktop/FairMOT-master/DCNv2/build/temp.win-amd64-3.8/Release/Users/hansung/Desktop/FairMOT-master/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.obj	60134a1a234111b
